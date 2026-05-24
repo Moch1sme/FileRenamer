@@ -37,7 +37,7 @@ python file_renamer.py
 
 2. Download `file_renamer.py` dan `build.bat`, taruh dalam **satu folder**
 
-3. Klik 2x `build.bat` — tunggu 1–2 menit
+3. Klik 2x `Install.bat` — tunggu 1–2 menit
 
 4. `FileRenamer.exe` siap! Klik 2x untuk buka — tidak perlu Python lagi
 
@@ -115,11 +115,6 @@ pantai.jpg   →  02_pantai.jpg
 
 ---
 
-## 📸 Screenshot
-
-> *Tambahkan screenshot aplikasi di sini*
-
----
 
 ## 📄 Lisensi
 
