@@ -49,7 +49,7 @@ python file_renamer.py
 |-----------|-------|
 | Python | 3.8 atau lebih baru |
 | tkinter | sudah termasuk di Python |
-| PyInstaller | diinstall otomatis oleh `build.bat` |
+| PyInstaller | diinstall otomatis oleh `Install.bat` |
 
 > **Opsional:** Install `tkinterdnd2` untuk drag & drop file dari luar jendela app:
 > ```bash
