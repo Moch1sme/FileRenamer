@@ -37,7 +37,7 @@ python file_renamer.py
 
 2. Download `file_renamer.py` dan `build.bat`, taruh dalam **satu folder**
 
-3. Klik 2x `Install.bat` — tunggu 1–2 menit
+3. Klik 2x `build.bat` — tunggu 1–2 menit
 
 4. `FileRenamer.exe` siap! Klik 2x untuk buka — tidak perlu Python lagi
 
@@ -49,7 +49,7 @@ python file_renamer.py
 |-----------|-------|
 | Python | 3.8 atau lebih baru |
 | tkinter | sudah termasuk di Python |
-| PyInstaller | diinstall otomatis oleh `Install.bat` |
+| PyInstaller | diinstall otomatis oleh `build.bat` |
 
 > **Opsional:** Install `tkinterdnd2` untuk drag & drop file dari luar jendela app:
 > ```bash
